@@ -1,6 +1,6 @@
 # Seattle Airbnb and Nature Map Design
 
-Check out the map design from [here]('https://yaothao.github.io/geog458_seattleMap')
+Check out the map design from [here](https://yaothao.github.io/geog458_seattleMap)
 
 In this map design assignment, I focused on examing the Greanlake and U District Area. I have implemented four different tiles in my map. 
 * The first tile is just an simple alternation of the base map. 
